@@ -24,9 +24,8 @@ cd enterprise-django-orm-showcase
    ```
    python -m venv venv
    venv\Scripts\activate # Windows
+   source venv/bin/activate # macOS / Linux
    ```
-
-# source venv/bin/activate # macOS / Linux
 
 3. Install dependencies:
 
