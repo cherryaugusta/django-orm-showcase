@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.env
+
+# Virtual Environment
+venv/
+
+# Django
+staticfiles/
+media/
+
+# IDEs
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Byte-compiled / logs
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Coverage reports
+htmlcov/
+.coverage
+
+# Backup / temp files
+*.bak
+*.swp
