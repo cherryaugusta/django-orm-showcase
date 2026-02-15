@@ -91,7 +91,7 @@ django-orm-showcase/
 • staticfiles/ → collect static files for production.
 • media/ → store uploaded files like images.
 • .env.example → copy to .env and fill in secret values.
-• venv/ → your virtual environment (excluded from Git).
+• venv/ → virtual environment (excluded from Git).
 • .vscode/ and .idea/ → IDE configs (ignored in Git).
 
 ---
