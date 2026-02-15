@@ -23,6 +23,8 @@ cd enterprise-django-orm-showcase
 2. Create and activate virtual environment:
    ```
    python -m venv venv
+   ```
+   ```
    venv\Scripts\activate # Windows
    source venv/bin/activate # macOS / Linux
    ```
